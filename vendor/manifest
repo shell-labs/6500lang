@@ -1,0 +1,147 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/AlexanderChen1989/xrest",
+			"repository": "https://github.com/AlexanderChen1989/xrest",
+			"revision": "fb9ba7f08ce170f7b37d0a6b156631cd493a011c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/bitly/go-simplejson",
+			"repository": "https://github.com/bitly/go-simplejson",
+			"revision": "aabad6e819789e569bd6aabf444c935aa9ba1e44",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/didip/tollbooth",
+			"repository": "https://github.com/didip/tollbooth",
+			"revision": "be7d4891cc860c1d3d4004e99b898ddfd419ceb1",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-yaml/yaml",
+			"repository": "https://github.com/go-yaml/yaml",
+			"revision": "f7716cbe52baa25d2e9b0d0da546fcf909fc16b4",
+			"branch": "v2"
+		},
+		{
+			"importpath": "github.com/jinzhu/gorm",
+			"repository": "https://github.com/jinzhu/gorm",
+			"revision": "9739cb853cbfb312fb0e20c7643588004cb50e4d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jinzhu/inflection",
+			"repository": "https://github.com/jinzhu/inflection",
+			"revision": "3272df6c21d04180007eb3349844c89a3856bc25",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jinzhu/now",
+			"repository": "https://github.com/jinzhu/now",
+			"revision": "ce80572eb55aa0ac839330041ca9db1afa5f1f6c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/juju/ratelimit",
+			"repository": "https://github.com/juju/ratelimit",
+			"revision": "77ed1c8a01217656d2080ad51981f6e99adaa177",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/lib/pq",
+			"repository": "https://github.com/lib/pq",
+			"revision": "8ad2b298cadd691a77015666a5372eae5dbfac8f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/lib/pq/hstore",
+			"repository": "https://github.com/lib/pq",
+			"revision": "8ad2b298cadd691a77015666a5372eae5dbfac8f",
+			"branch": "master",
+			"path": "/hstore"
+		},
+		{
+			"importpath": "github.com/mozillazg/request",
+			"repository": "https://github.com/mozillazg/request",
+			"revision": "c7b9b28d405aea75359a0a5dfb89f52a84632f6d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/nicksnyder/go-i18n/goi18n",
+			"repository": "https://github.com/nicksnyder/go-i18n",
+			"revision": "37e5c2de3e03e4b82693e3fcb4a6aa2cc4eb07e3",
+			"branch": "master",
+			"path": "/goi18n"
+		},
+		{
+			"importpath": "github.com/nicksnyder/go-i18n/i18n/bundle",
+			"repository": "https://github.com/nicksnyder/go-i18n",
+			"revision": "37e5c2de3e03e4b82693e3fcb4a6aa2cc4eb07e3",
+			"branch": "master",
+			"path": "/i18n/bundle"
+		},
+		{
+			"importpath": "github.com/nicksnyder/go-i18n/i18n/language",
+			"repository": "https://github.com/nicksnyder/go-i18n",
+			"revision": "37e5c2de3e03e4b82693e3fcb4a6aa2cc4eb07e3",
+			"branch": "master",
+			"path": "/i18n/language"
+		},
+		{
+			"importpath": "github.com/nicksnyder/go-i18n/i18n/translation",
+			"repository": "https://github.com/nicksnyder/go-i18n",
+			"revision": "37e5c2de3e03e4b82693e3fcb4a6aa2cc4eb07e3",
+			"branch": "master",
+			"path": "/i18n/translation"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "78e1654ef40b8b993e3355307740b1cac8f1db20",
+			"branch": "master",
+			"path": "/context"
+		},
+		{
+			"importpath": "golang.org/x/net/proxy",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "78e1654ef40b8b993e3355307740b1cac8f1db20",
+			"branch": "master",
+			"path": "/proxy"
+		},
+		{
+			"importpath": "golang.org/x/net/publicsuffix",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "78e1654ef40b8b993e3355307740b1cac8f1db20",
+			"branch": "master",
+			"path": "/publicsuffix"
+		},
+		{
+			"importpath": "golang.org/x/oauth2",
+			"repository": "https://go.googlesource.com/oauth2",
+			"revision": "191c6170f61863159ab7a68f381291353957f566",
+			"branch": "master"
+		},
+		{
+			"importpath": "google.golang.org/cloud/compute/metadata",
+			"repository": "https://code.googlesource.com/gocloud",
+			"revision": "777d8f0a56610b58d4254b0db6c59d9afd58b5c6",
+			"branch": "master",
+			"path": "/compute/metadata"
+		},
+		{
+			"importpath": "google.golang.org/cloud/internal",
+			"repository": "https://code.googlesource.com/gocloud",
+			"revision": "777d8f0a56610b58d4254b0db6c59d9afd58b5c6",
+			"branch": "master",
+			"path": "/internal"
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"revision": "f7716cbe52baa25d2e9b0d0da546fcf909fc16b4",
+			"branch": "v2"
+		}
+	]
+}
