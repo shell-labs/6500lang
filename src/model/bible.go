@@ -2,6 +2,7 @@ package model
 
 import "github.com/jinzhu/gorm"
 
+// Bible 圣经版本
 type Bible struct {
 	gorm.Model
 	BibleID     string
@@ -13,6 +14,7 @@ type Bible struct {
 	IsOrignal   bool
 }
 
+// Book 圣经卷
 type Book struct {
 	gorm.Model
 	BookID       string
@@ -24,6 +26,7 @@ type Book struct {
 	ChapterVerse string // object{int: array} {1:[1,2,3...], 2:[1,2,3...]}
 }
 
+// Verse 圣经经节
 type Verse struct {
 	gorm.Model
 	VerseID       string
@@ -35,6 +38,7 @@ type Verse struct {
 	FootNote      string
 }
 
+// Word 圣经单词
 type Word struct {
 	gorm.Model
 	VerseID      string
@@ -43,6 +47,7 @@ type Word struct {
 	Comment      string
 }
 
+// Vocabulary 圣经词汇
 type Vocabulary struct {
 	gorm.Model
 	StrongNumber string
